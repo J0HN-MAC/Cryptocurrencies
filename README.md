@@ -1,5 +1,5 @@
 # Cryptocurrencies
-Performed the following using the crypto_data.csv dataset
+Performed the following analysis using the crypto_data.csv dataset
 
 - Part 1: Preprocessing the Data for PCA
 - Part 2: Reducing Data Dimensions Using PCA
